@@ -1442,7 +1442,7 @@ step 3: matrix multiply
 
 result: Same as nested for-loops, but much faster!
 
-This is the foundation of self-attention in transformers.
+This is the foundation of self-attention in transformers;
 instead of uniform weights (1/n for all), attention learns
 which positions to weight more heavily.
 
