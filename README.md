@@ -13,6 +13,7 @@ Part 4 covers matrix multiplication for efficient token averaging, lower triangu
 <br>
 
 ## Part 3 [HERE](https://github.com/mytechnotalent/HackingGPT-3)
+## Part 5 [HERE](https://github.com/mytechnotalent/HackingGPT-5)
 
 <br><br>
 
