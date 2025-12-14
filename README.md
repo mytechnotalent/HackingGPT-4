@@ -1,9 +1,20 @@
+![image](https://github.com/mytechnotalent/HackingGPT-4/blob/main/HackingGPT.png?raw=true)
+
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # HackingGPT
 ## Part 4
 Part 4 covers matrix multiplication for efficient token averaging, lower triangular weight matrices, row normalization for averaging, and broadcasting mechanics in PyTorch.
 
 #### Author: [Kevin Thomas](mailto:ket189@pitt.edu)
 
+<br>
+
+## Part 3 [HERE](https://github.com/mytechnotalent/HackingGPT-3)
+
+<br><br>
 
 ```python
 import torch
